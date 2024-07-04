@@ -1,0 +1,30 @@
+button{
+    border: 5px solid rgb(100, 196, 174);
+    color: azure;
+}
+button:hover{
+    color:aqua;
+}
+input:focus{
+    background-color: rgb(193, 193, 223);
+    color: rgb(40, 48, 48);
+}
+.form{
+    width:30%;
+    margin: 0 auto;
+    height: 430px;
+    color: azure;
+    
+}
+h1{
+    text-align: center;
+    color: azure;
+}
+body{
+    margin:0px;
+    padding: 0px;
+    background-image: url(../assert/images.jfif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
